@@ -1,0 +1,1 @@
+- Là quản lý kho, tôi muốn xem báo cáo tồn kho theo thời gian thực để đưa ra quyết định nhập/xuất hàng kịp thời.
